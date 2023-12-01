@@ -1,4 +1,4 @@
-# Tip-Analysis & prediction
+# Resturant Tips Analysis prediction
 ![download (1)](https://github.com/Abdallahelraey/Tip-prediction/assets/101267806/f6b5abbe-0d67-4e5c-b5b6-171084f30340)
 
 
