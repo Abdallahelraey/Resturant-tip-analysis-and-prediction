@@ -6,18 +6,26 @@
 
 Welcome to our Restaurant Tips Optimization Project! This project aims to enhance restaurant services and optimize earnings through data analysis and machine learning. Below is a comprehensive guide to the project, highlighting key findings, conclusions, and the modeling process.
 
-Tip Dataset Key Features
-Overview
-Source: tip.csv file
-Contains 244 rows/samples of tipping data
-Features
-total_bill: the total bill amount
-tip: tip amount paid
-sex: gender of bill payer (Male/Female)
-smoker: whether the bill payer is a smoker (Yes/No)
-day: day of week
-time: meal time
-size: size of dining party
+
+# Tip Dataset Key Features
+
+## Overview
+- Source: tip.csv file
+- Contains 244 rows/samples of tipping data 
+
+## Features
+- `total_bill`: the total bill amount
+- `tip`: tip amount paid
+- `sex`: gender of bill payer (Male/Female)
+- `smoker`: whether the bill payer is a smoker (Yes/No)  
+- `day`: day of week
+- `time`: meal time
+- `size`: size of dining party  
+
+## Key Insights
+- Provides detailed tipping data across different parties, days, and meal times
+- Can analyze differences in tipping behavior by party size, gender, smoking status, and time/day
+- Useful for food service business insights and modeling tip percentage prediction
 
 ## Project Objectives
 
